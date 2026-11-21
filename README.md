@@ -3,6 +3,23 @@
 Handheld presence detector using an LD2450 24GHz radar module and the
 LCDWiki 4.0-inch ESP32-32E (E32R40T) display.
 
+## Assembled hardware
+
+<p align="center">
+  <img src="pics/img1.jpg" alt="Front of the assembled Wall-Hack with the radar display running" width="400">
+  <br><em>Front view with the radar interface running.</em>
+</p>
+
+<p align="center">
+  <img src="pics/img2.jpg" alt="Open enclosure showing the LD2450 mounted behind the display" width="400">
+  <br><em>Open enclosure showing the LD2450 mounted behind the display.</em>
+</p>
+
+<p align="center">
+  <img src="pics/img3.jpg" alt="Internal battery and wiring next to the back of the LCDWiki board" width="400">
+  <br><em>Battery and internal wiring alongside the rear of the LCDWiki board.</em>
+</p>
+
 ## Firmware
 
 **Version: v1.0**
